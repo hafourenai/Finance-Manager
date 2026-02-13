@@ -8,7 +8,7 @@ Selamat datang di **FinanceFlow**, solusi manajemen keuangan pribadi yang mencak
 
 ### Mobile App (Flutter)
 - **Framework:** Flutter ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-- **Database Lokal:** SQLite ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+- **Database Lokal:** `sqflite` 
 - **Fitur Utama:** Dashboard, Riwayat Transaksi, Laporan Grafik (`fl_chart`), dan Ekspor Laporan TXT.
 - **Library Penting:** `share_plus` (berbagi laporan), `intl` (format uang & tanggal Indonesia).
 
