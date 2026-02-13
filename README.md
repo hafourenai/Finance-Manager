@@ -7,21 +7,21 @@ Selamat datang di **FinanceFlow**, solusi manajemen keuangan pribadi yang mencak
 ## Tech Stack
 
 ### Mobile App (Flutter)
-- **Framework:** ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-- **Database Lokal:** ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+- **Framework:** Flutter ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+- **Database Lokal:** SQLite ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 - **Fitur Utama:** Dashboard, Riwayat Transaksi, Laporan Grafik (`fl_chart`), dan Ekspor Laporan TXT.
 - **Library Penting:** `share_plus` (berbagi laporan), `intl` (format uang & tanggal Indonesia).
 
 ### Web Frontend (React)
-- **Framework:** ![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react.js&logoColor=black)
-- **Styling:** ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-- **Database Lokal:** ![Dexie.js](https://img.shields.io/badge/Dexie.js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Framework:** React ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+- **Styling:** Tailwind CSS![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+- **Database Lokal:** Dexie.js ![Dexie.js](https://img.shields.io/badge/Dexie.js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - **Visualisasi:** `Recharts`
 
 ### Backend API (Node.js)
-- **Runtime:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-- **Framework:** ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-- **Database:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- **Runtime:** Node.js ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+- **Framework:** Express ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+- **Database:** MySQL ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 - **Security & Config:** `cors`, `dotenv`
 
 ---
